@@ -49,4 +49,4 @@ Each student should write about the same number of application programs, but it 
 
 ## Design Notes
 
-`Merchandise` and `productID` are the terms we were required to use. Throughout the code base, Merchandise and Product are used interchangeably to refer to the same thing.
+`Merchandise` and `productID` are the terms we were told to use. Throughout the code base, Merchandise and Product are used interchangeably to refer to the same thing.
