@@ -1,6 +1,4 @@
 # WolfWR
-A program to demonstrate end-to-end connection between the user and the database. The user interface uses the command line for user input.
-This program emulates a database that might be used by a wholesale membership store, like Costco.
 
 ## Project Narrative
 This is a description of the main project for the course Database
