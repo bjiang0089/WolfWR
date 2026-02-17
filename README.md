@@ -49,7 +49,7 @@ Each student should write about the same number of application programs, but it 
 
 ## Design Notes
 
-`Merchandise` and `productID` are the terms we were told to use. Throughout the code base, Merchandise and Product are used interchangeably to refer to the same thing.
+`Merchandise` and `productID` are the terms used in the description. Throughout the code base, Merchandise and Product are used interchangeably to refer to the same thing.
 
 ## Running the Program
 From the command line / terminal, navigate to the root directory of this project. To compile, run `mvn clean package`. To execute the program, run `java -jar target/CSC540-WolfWR-1.0.jar`. The program will give command line prompts to navigate through the program.
